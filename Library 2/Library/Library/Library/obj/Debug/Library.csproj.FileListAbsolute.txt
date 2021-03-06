@@ -1,0 +1,14 @@
+C:\Users\student\Videos\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\student\Videos\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\student\Videos\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\student\Videos\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\student\Videos\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\student\Videos\Library\Library\Library\obj\Debug\Library.exe
+C:\Users\student\Videos\Library\Library\Library\obj\Debug\Library.pdb
+D:\c#\lesson9\Library 2\Library\Library\Library\bin\Debug\Library.exe.config
+D:\c#\lesson9\Library 2\Library\Library\Library\bin\Debug\Library.exe
+D:\c#\lesson9\Library 2\Library\Library\Library\bin\Debug\Library.pdb
+D:\c#\lesson9\Library 2\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\c#\lesson9\Library 2\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\c#\lesson9\Library 2\Library\Library\Library\obj\Debug\Library.exe
+D:\c#\lesson9\Library 2\Library\Library\Library\obj\Debug\Library.pdb
